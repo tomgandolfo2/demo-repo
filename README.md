@@ -1,1 +1,3 @@
-# demo-repo
+# Demo
+
+A descriptive sentence.
